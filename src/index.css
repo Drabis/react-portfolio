@@ -1,45 +1,39 @@
-/* html {
-  background-image: url(./assets/images/bg-image.png);
+*{
+  background-image: url(./assets/images/sand-3081770_1920.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+/* body {
+  background-color: transparent;
 } */
 
-body {
-  background-color: transparent;
-}
-
 header {
-  border-bottom: solid 1px #333333;
+  border-bottom: solid 4px #333333;
+  background-color: #535353;
 }
 
-.navbar-light .navbar-brand {
-  color: white;
-}
 .navbar-brand span {
-  color: white;
-  background-color: #727272;
+  /* color: white; */
+  /* background-color: #1a1818; */
+  font-size: larger;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 800;
-  padding: 10px 0px 10px 0px;
+  padding: 10px;
+
 }
 
 .nav-link {
   text-align: center;
-}
-
-button:focus {
-  outline: 5px auto #4baaa5;
+  font-weight: bold;
 }
 
 h1 {
-  color: #727272;
+  color: #0d337a;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 800;
 }
 
-/* .card {
-    margin-top: 75px;
-} */
 
 .card img {
   height: 15rem;
@@ -48,6 +42,7 @@ h1 {
 
 .about-me {
   overflow-y: auto;
+  
 }
 
 .about-me img {
@@ -57,13 +52,6 @@ h1 {
   width: 200px;
 }
 
-.about-me ul {
-  list-style: none;
-}
-
-.portfolio {
-  overflow-y: auto;
-}
 
 @media screen and (max-height: 812px) {
   .content {
