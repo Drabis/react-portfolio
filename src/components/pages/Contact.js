@@ -1,5 +1,4 @@
 import React from "react";
-// import resume from "../../assets/";
 
 function Contact(props) {
   return (
