@@ -1,5 +1,5 @@
 import React from "react";
-// import { profile } from "../../assets/images/profile.jpg";
+// import { abou } from "../../assets/images/abou.jpg";
 
 function About() {
   return (
@@ -12,7 +12,7 @@ function About() {
               <hr />
               <div className="content about-me">
                 <div>
-                  {/* <img src={profile} alt="My profile" /> */}
+                  {/* <img src={abou} alt="abou" /> */}
                 </div>
                 <p className="card-text">
                    Hey all! I'm Aboulaye Drabo from the Ivory Coast where

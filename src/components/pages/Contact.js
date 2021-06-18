@@ -11,12 +11,6 @@ function Contact(props) {
               <h1 className="card-title">Contact</h1>
               <hr />
               <div className="list-group">
-                {/* <a
-                  href="tel:+13475748374"
-                  className="list-group-item list-group-item-action"
-                >
-                  Phone<i className="fa fa-phone" aria-hidden="true"></i>
-                </a> */}
                 <a
                   href="mailto:drabo.aboulaye88@gmail.com"
                   className="list-group-item list-group-item-action"
@@ -41,14 +35,14 @@ function Contact(props) {
                   <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
 
-                {/* <a
-                  href={resume}
+                <a
+                  href="https://docs.google.com/document/d/1zsHKYeWYKsRIlyX2ds-EDj7v2S5V9IhezjHxCoM3q74/edit?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="list-group-item list-group-item-action"
                 >
                   Resume<i className="fa fa-file-text" aria-hidden="true"></i>
-                </a> */}
+                </a>
               </div>
             </article>
           </div>
