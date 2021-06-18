@@ -1,5 +1,5 @@
 
-import gameFinder from "../../assets/thumbnails/gmae-finder.png";
+import gameFinder from "../../assets/thumbnails/game-finder.png";
 import quizApp from "../../assets/thumbnails/quiz.png";
 import weatherDash from "../../assets/thumbnails/weather-dash.png";
 import employeeDir from "../../assets/thumbnails/employeeDir.png";

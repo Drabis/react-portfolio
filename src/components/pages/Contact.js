@@ -11,14 +11,14 @@ function Contact(props) {
               <h1 className="card-title">Contact</h1>
               <hr />
               <div className="list-group">
-                <a
+                {/* <a
                   href="tel:+13475748374"
                   className="list-group-item list-group-item-action"
                 >
                   Phone<i className="fa fa-phone" aria-hidden="true"></i>
-                </a>
+                </a> */}
                 <a
-                  href="mailto:drabo.aboulaye@gmail.com"
+                  href="mailto:drabo.aboulaye88@gmail.com"
                   className="list-group-item list-group-item-action"
                 >
                   E-mail<i className="fa fa-envelope" aria-hidden="true"></i>
