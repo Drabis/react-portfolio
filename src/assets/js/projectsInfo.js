@@ -5,7 +5,7 @@ import weatherDash from "../../assets/thumbnails/weather-dash.png";
 import employeeDir from "../../assets/thumbnails/employeeDir.png";
 import smarter2barter from "../../assets/thumbnails/smarter-barter.png";
 
-const projectInfo = [
+const projectsInfo = [
   {
     title: "Smarter To Barter",
     description:
@@ -49,4 +49,4 @@ const projectInfo = [
   },
 ];
 
-export default projectInfo;
+export default projectsInfo;

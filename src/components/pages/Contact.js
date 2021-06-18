@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../assets/";
+// import resume from "../../assets/";
 
 function Contact(props) {
   return (
@@ -41,14 +41,14 @@ function Contact(props) {
                   <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
 
-                <a
+                {/* <a
                   href={resume}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="list-group-item list-group-item-action"
                 >
                   Resume<i className="fa fa-file-text" aria-hidden="true"></i>
-                </a>
+                </a> */}
               </div>
             </article>
           </div>
