@@ -12,7 +12,7 @@ function About() {
               <hr />
               <div className="content about-me">
                 <div>
-                  <img src="../../assets/images/abou" alt="abou" />
+                  <img src="../../assets/images/abou.jpg" alt="abou" />
                 </div>
                 <p className="card-text">
                    Hey all! I'm Aboulaye Drabo from the Ivory Coast where
