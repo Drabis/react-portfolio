@@ -1,12 +1,13 @@
-/* *{
-  background-image: url(./assets/images/sand-3081770_1920.jpg);
+html{
+  background-image: url(./assets/images/silvio-kundt-Fixg8KipOg8-unsplash.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
-} */
+  background-attachment:scroll;
+  background-size: cover;
+}
 
-/* body {
+body {
   background-color: transparent;
-} */
+}
 
 header {
   border-bottom: solid 4px #333333;
@@ -14,8 +15,8 @@ header {
 }
 
 .navbar-brand span {
-  /* color: white; */
-  /* background-color: #1a1818; */
+  color: white;
+  background-color: #1a1818;
   font-size: larger;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 800;
@@ -29,7 +30,7 @@ header {
 }
 
 h1 {
-  color: #0d337a;
+  color: #3a3b3d;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 800;
 }

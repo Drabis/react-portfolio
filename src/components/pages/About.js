@@ -24,7 +24,7 @@ function About() {
                   everyday lives. <br />
                   Skills: HTML3, CSS3, jQuery, Gatsby, Bootstrap, , JavaScript,
                   Express.js, Handlebars, Node.js, MongoDB, MySQL, React.js and
-                  API Integration
+                  API Interaction.
                 </p>
               </div>
             </article>
