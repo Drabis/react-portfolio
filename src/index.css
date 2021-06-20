@@ -62,7 +62,7 @@ h1 {
 
 @media screen and (min-height: 813px) {
   .content {
-    max-height: 65vh;
+    max-height: 70vh;
   }
 }
 
@@ -70,6 +70,9 @@ h1 {
   .about-me p {
     text-align: justify;
   }
+}
+.portfolio {
+  overflow-y: auto;
 }
 
 .proj-description {
