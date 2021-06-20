@@ -11,11 +11,11 @@
   A website that will showcase my projects along with information about myself.
 
   ## Project Objectives
-    Use bootstrap, CSS3 and React.js to build a responsive website
+  Use bootstrap, CSS3 and React.js to build a responsive website
 
   ## Website Link
-
-
+  
+  ## Screenshots
 
 
   ## License
