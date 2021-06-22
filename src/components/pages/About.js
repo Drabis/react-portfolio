@@ -1,5 +1,5 @@
 import React from "react";
-// import { abou } from "../../assets/images/abou.jpg";
+import Image from "../../assets/images/abou.jpg";
 
 function About() {
   return (
@@ -12,7 +12,8 @@ function About() {
               <hr />
               <div className="content about-me">
                 <div>
-                  <img src="../../assets/images/abou.jpg" alt="abou" />
+                  <img src={Image} alt=""/>
+                  {/* <img src={process.env.PUBLIC_URL + '/assets/images/abou.jpg'} alt="" /> */}
                 </div>
                 <p className="card-text">
                    Hey all! I'm Aboulaye Drabo from the Ivory Coast where
