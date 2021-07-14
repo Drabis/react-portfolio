@@ -4,12 +4,13 @@ import quizApp from "../../assets/thumbnails/quiz.png";
 import weatherDash from "../../assets/thumbnails/weather-dash.png";
 import employeeDir from "../../assets/thumbnails/employeeDir.png";
 import smarter2barter from "../../assets/thumbnails/smarter-barter.png";
+import Jamana from "../../assets/thumbnails/jamana.png"
 
 const projectsInfo = [
   {
     title: "Smarter To Barter",
     description:
-      'The Smarter to Barter application can be used to offer services and seek services.',
+      "The Smarter to Barter application can be used to offer services and seek services.",
     repo: "https://github.com/Drabis/smarter-to-barter",
     url: "https://smarter2barter.herokuapp.com/",
     image: smarter2barter,
@@ -22,7 +23,15 @@ const projectsInfo = [
     url: "https://drabis.github.io/nba-game-locator/",
     image: gameFinder,
   },
-  
+  {
+    title: "Jamana Blog App",
+    description:
+      "This is a MERN App that allows users to post delete and save data like a blog. This Blog app promote the culture and countries in Africa to facilitate your trip there.",
+    repo: "https://github.com/Drabis/Jamana",
+    url: "https://jamana101.herokuapp.com",
+    image: Jamana,
+  },
+
   {
     title: "Employee Directory",
     description:
