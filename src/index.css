@@ -30,11 +30,22 @@ header {
 }
 
 h1 {
-  color: #3a3b3d;
+  color: black;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 800;
 }
-
+.card-body {
+  background-color: rgb(146, 145, 145);
+}
+.card-link {
+  background-color: lightgrey;
+  text-decoration: none;
+  color:inherit;
+  border-radius: 5px;
+}
+.card-text{
+  font-family: 'Libre Baskerville', serif;
+}
 
 .card img {
   height: 15rem;

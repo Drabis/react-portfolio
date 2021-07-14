@@ -18,13 +18,13 @@ function About() {
                 <p className="card-text">
                    Hey all! I'm Aboulaye Drabo from the Ivory Coast where
                   the music is always great and the food is always good, I'm a
-                  native french speaker. I am a full-stack web developer with a
-                  focus on the Front End. I'm excited to utilize technology to
+                  native french speaker. I recently graduated from Columbia University Coding Bootcamp where I learned to build full-stack web Applications.
+                   I'm excited to utilize technology to
                   foster growth, development, and progress. I'm passionate about
                   helping others and I believe technology has a great impact on
                   everyday lives. <br />
-                  Skills: HTML3, CSS3, jQuery, Gatsby, Bootstrap, , JavaScript,
-                  Express.js, Handlebars, Node.js, MongoDB, MySQL, React.js and
+                  Skills: HTML5, CSS, jQuery, Bootstrap, JavaScript, 
+                  Express.js, Node.js, MongoDB, MySQL, React.js and
                   API Interaction.
                 </p>
               </div>

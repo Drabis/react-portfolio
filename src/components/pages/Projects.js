@@ -23,11 +23,11 @@ function Projects() {
                         className="card-img-top"
                         alt={project.title}
                       />
-                      <div className="card-body proj-description">
+                      <div className="card-des proj-description">
                         <h5 className="card-title">{project.title}</h5>
                         <p className="card-text">{project.description}</p>
                       </div>
-                      <div className="card-body proj-links">
+                      <div className="proj-links">
                         <a href={project.repo} className="card-link">
                           Repo
                         </a>
