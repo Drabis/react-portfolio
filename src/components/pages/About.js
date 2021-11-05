@@ -23,8 +23,8 @@ function About() {
                   foster growth, development, and progress. I'm passionate about
                   helping others and I believe technology has a great impact on
                   everyday lives. <br />
-                  Skills: HTML5, CSS, jQuery, Bootstrap, JavaScript, 
-                  Express.js, Node.js, MongoDB, MySQL, React.js and
+                  <b>Skills:</b> HTML5, CSS, Node.Js, JavaScript, 
+                  Express.js, MongoDB, MySQL, Java, Spring framworks, React.js, React Native and
                   API Interaction.
                 </p>
               </div>
