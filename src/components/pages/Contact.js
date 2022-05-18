@@ -35,7 +35,7 @@ function Contact(props) {
                 </a>
 
                 <a
-                  href="https://docs.google.com/document/d/1E0FuXE-48IiL8_NC62ajcYEcnePsjuCCxnmjwVDxCOA/edit"
+                  href="https://docs.google.com/document/d/1E0FuXE-48IiL8_NC62ajcYEcnePsjuCCxnmjwVDxCOA"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="list-group-item list-group-item-action"
