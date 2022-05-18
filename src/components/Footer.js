@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer mt-auto py-3 fixed-bottom">
       <div className="container">
-        <span>&copy; Aboulaye Drabo 2021</span>
+        <span>&copy; Aboulaye Drabo 2022</span>
       </div>
     </footer>
   );
