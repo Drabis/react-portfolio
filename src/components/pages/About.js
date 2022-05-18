@@ -16,15 +16,12 @@ function About() {
                   {/* <img src={process.env.PUBLIC_URL + '/assets/images/abou.jpg'} alt="" /> */}
                 </div>
                 <p className="card-text">
-                   Hey all! I'm Aboulaye Drabo from the Ivory Coast where
-                  the music is always great and the food is always good, I'm a
-                  native french speaker. I recently graduated from Columbia University Coding Bootcamp where I learned to build full-stack web Applications.
-                   I'm excited to utilize technology to
-                  foster growth, development, and progress. I'm passionate about
-                  helping others and I believe technology has a great impact on
-                  everyday lives. <br />
-                  <b>Skills:</b> HTML5, CSS, Node.Js, JavaScript, 
-                  Express.js, MongoDB, MySQL, Java, Spring framworks, React.js, React Native and
+                Hey! 
+                  I'm Aboulaye Drabo from the Ivory Coast, where the music is always great and the food is always good. I have been living in NYC for about eight years now. I'm a native French speaker. I graduated from Columbia University Coding Bootcamp, where I learned to build responsive full-stack web Applications using the latest technology. I'm excited to utilize technology to foster growth, development, and progress in this new world. I'm passionate about helping others, and I also believe that technology has a great way of impacting our everyday lives. <br />
+                  <br/>
+                  <b>Skills:</b> 
+                  HTML5, CSS, JavaScript, Java
+                  Express.js, MongoDB, MySQL, Spring framworks, React.js, React Native and
                   API Interaction.
                 </p>
               </div>

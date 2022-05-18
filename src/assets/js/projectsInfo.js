@@ -26,7 +26,7 @@ const projectsInfo = [
   {
     title: "Jamana Blog App",
     description:
-      "This is a MERN App that allows users to post delete and save data like a blog. This Blog app promote the culture and countries in Africa to facilitate your trip there.",
+      "This Blog app promote cultures and countries in Africa to facilitate your trip on the continent. This is a MERN App that allows users to post delete and save data like a blog.",
     repo: "https://github.com/Drabis/Jamana",
     url: "https://jamana101.herokuapp.com",
     image: Jamana,
