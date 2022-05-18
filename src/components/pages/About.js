@@ -18,6 +18,7 @@ function About() {
                 <p className="card-text">
                 Hey! 
                   I'm Aboulaye Drabo from the Ivory Coast, where the music is always great and the food is always good. I have been living in NYC for about eight years now. I'm a native French speaker. I graduated from Columbia University Coding Bootcamp, where I learned to build responsive full-stack web Applications using the latest technology. I'm excited to utilize technology to foster growth, development, and progress in this new world. I'm passionate about helping others, and I also believe that technology has a great way of impacting our everyday lives. <br />
+                  <br/>
                   <b>Skills:</b> 
                   HTML5, CSS, JavaScript, Java
                   Express.js, MongoDB, MySQL, Spring framworks, React.js, React Native and
